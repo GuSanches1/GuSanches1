@@ -13,7 +13,7 @@ Me chamo Gustavo Sanches de França e aqui deixo meus projetos feitos nesta jorn
    <p align="left"><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Boy.png" alt="homem programador" width="25" height="25" /> 20 anos | São Paulo</p> 
    <p align="left"><img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" alt="homem programador" width="25" height="25" /> Desenvolvedor frontend</p>
    <p align="left"><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Man%20Student.png" alt="homem estudante" width="25" height="25" /> Estudante de Análise e Desenvolvimento de Sistemas</p>
-   <p align="left"><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Emoji feliz" width="25" height="25" /> Gosto de jogar futebol, conhecer lugares novos e restaurantes! </p>
+   <p align="left"><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Emoji feliz" width="25" height="25" /> Gosto de jogar futebol, conhecer lugares e restaurantes novos! </p>
 </main>
 <footer>
 <a href="https://www.linkedin.com/in/gustavo-sanches-franca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
